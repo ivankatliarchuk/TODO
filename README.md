@@ -6,3 +6,8 @@
 ## .Net
 
 - https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks/issues/119
+- Create library similar to https://www.npmjs.com/package/env-var
+
+## Kubernetes
+
+- https://github.com/interview-assigments/kubernetes-challenge
