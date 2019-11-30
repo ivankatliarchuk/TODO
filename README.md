@@ -14,3 +14,7 @@
 
 -- https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned/
 -- https://github.com/GoogleCloudPlatform/microservices-demo
+
+# Databases
+
+- https://github.com/OmniDB/OmniDB/issues/615
