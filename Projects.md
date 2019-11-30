@@ -5,3 +5,4 @@
 - browser based DB ACCSS
   * SQL server, Postgress and etc.(connection via IAM, AD)
   * http://mylittleadmin.com/en/default.aspx
+  * https://www.datasparc.com/mssql-client/
