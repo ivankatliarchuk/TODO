@@ -15,6 +15,10 @@
 -- https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned/
 -- https://github.com/GoogleCloudPlatform/microservices-demo
 
-# Databases
+## Databases
 
 - https://github.com/OmniDB/OmniDB/issues/615
+
+## Terragrunt
+
+- [Use Module Registry Natively](https://github.com/gruntwork-io/terragrunt/issues/311)
