@@ -22,3 +22,4 @@
 ## Terragrunt
 
 - [Use Module Registry Natively](https://github.com/gruntwork-io/terragrunt/issues/311)
+- [Quet](https://github.com/gruntwork-io/terragrunt/issues/432)
