@@ -26,3 +26,10 @@
 - [Use Module Registry Natively](https://github.com/gruntwork-io/terragrunt/issues/311)
 - [Quet](https://github.com/gruntwork-io/terragrunt/issues/432)
 
+## Secret Managers
+
+- https://github.com/segmentio/chamber
+- https://github.com/mozilla/sops/issues/563
+- https://github.com/mozilla/sops/issues/438
+
+
