@@ -32,4 +32,6 @@
 - https://github.com/mozilla/sops/issues/563
 - https://github.com/mozilla/sops/issues/438
 
+## Help Open Source and Make Money
 
+- https://issuehunt.io/issues
