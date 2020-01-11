@@ -35,3 +35,4 @@
 ## Help Open Source and Make Money
 
 - https://issuehunt.io/issues
+- https://issuehunt.io/r/weseek/helm-charts/issues/1
