@@ -44,4 +44,4 @@
 
 ## Install on Alpine
 
-- https://github.com/mikefarah/yq
+- https://github.com/mikefarah/yq (https://github.com/mikefarah/yq/issues/190)
