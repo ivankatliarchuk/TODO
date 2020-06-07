@@ -41,3 +41,7 @@
 ## Review Kubernetes Terraform. Create Similar Terragrung Terraform?
 
 - https://github.com/kubeform/kubeform
+
+## Install on Alpine
+
+- https://github.com/mikefarah/yq
