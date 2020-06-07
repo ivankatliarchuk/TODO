@@ -10,3 +10,8 @@
 ## Create
 
 - [Similar for Security](https://github.com/containerum/containerum)
+
+## Projects to create
+
+- Github Profiles
+- SOPS k8s operator
