@@ -15,3 +15,8 @@
 
 - Github Profiles
 - SOPS k8s operator
+
+## Jenkins
+
+Not working with kubernetes and eks correctly. E.g. no support for web identity
+> https://github.com/jenkinsci/artifact-manager-s3-plugin#aws-credentials 
