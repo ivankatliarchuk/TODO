@@ -49,3 +49,7 @@
 ## Brew
 
 - https://github.com/tmux-python/tmuxp
+
+## Helm
+
+- Push some charts to https://staging.artifacthub.io/packages/helm/bitnami/metrics-server
