@@ -53,3 +53,7 @@
 ## Helm
 
 - Push some charts to https://staging.artifacthub.io/packages/helm/bitnami/metrics-server
+
+## Brew
+
+- [add support for overwrite](https://github.com/Homebrew/homebrew-bundle/issues/932)
