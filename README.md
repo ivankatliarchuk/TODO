@@ -57,6 +57,7 @@
   - kube ops view https://github.com/hjacobs/kube-ops-view
   - etcd https://github.com/etcd-io/etcd
   - https://codeberg.org/hjacobs/kube-ops-view/issues/7
+  - - https://hub.kubeapps.com/charts/stable/kube-ops-view
 
 ## Brew
 
