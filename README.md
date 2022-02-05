@@ -53,6 +53,9 @@
 ## Helm
 
 - Push some charts to https://staging.artifacthub.io/packages/helm/bitnami/metrics-server
+- Create cloud kats personal helm chart repository service
+  - kube ops view https://github.com/hjacobs/kube-ops-view
+  - etcd https://github.com/etcd-io/etcd
 
 ## Brew
 
